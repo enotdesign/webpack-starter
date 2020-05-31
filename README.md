@@ -1,14 +1,13 @@
 # Webpack Starter
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Configuracion inicial para aplicaciones utilizando webpack.
 
 ### Notas:
-Recuerden reconstruir los módulos de Node
+Reconstruir los módulos de NodeJS
 ```
 npm install
 ```
-
-Y para construir el build, recueren:
+Construir el build
 ```
 npm run build
 ```
